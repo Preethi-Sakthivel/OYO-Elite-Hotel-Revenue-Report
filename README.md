@@ -56,7 +56,6 @@ The project aimed to solve the challenge of fragmented revenue and occupancy dat
 
 Demos:
 
-[Dashboard Preview].(https://github.com/Preethi-Sakthivel/Spotify-Dashboard/blob/main/spotify%20cover%20image.png)
-
+[Dashboard Preview].(https://github.com/Preethi-Sakthivel/OYO-Elite-Hotel-Revenue-Report/blob/main/Hotel%20Revenue%20dashboard.png)
 
 
