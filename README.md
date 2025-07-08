@@ -52,4 +52,11 @@ The project aimed to solve the challenge of fragmented revenue and occupancy dat
 
 •	Excel (Data Analysis, Initial Exploration)
 
-•	SQL (Data Integration Concepts, Analysis)
+•	SQL (Data Integration Concepts, Analysis) 
+
+Demos:
+
+[Dashboard Preview].(https://github.com/Preethi-Sakthivel/Spotify-Dashboard/blob/main/spotify%20cover%20image.png)
+
+
+
