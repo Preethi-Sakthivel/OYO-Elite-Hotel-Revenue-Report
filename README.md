@@ -1,8 +1,30 @@
-![image](https://github.com/user-attachments/assets/0766c798-d636-40ac-b493-ae70e8ae638f)
+
 
 # OYO-Elite-Hotel-Revenue-Report
 
+![image](https://github.com/user-attachments/assets/0766c798-d636-40ac-b493-ae70e8ae638f)
+
 Project Overview
+
+📊Led end-to-end development of a comprehensive Power BI dashboard for analyzing hotel performance metrics using a dataset of 5 tables totaling over 1 million records, including revenue, occupancy, room type, and customer booking data across multiple cities and platforms.
+
+📈Conducted extensive data modeling by creating star schema relationships among dimension and fact tables (dim_date, dim_hotels, dim_rooms, fact_aggregated_bookings, fact_bookings) to ensure efficient querying and accurate cross-filtering.
+
+💻Transformed raw data using Power Query, including duplicate query creation, header promotion, null handling, and column renaming, significantly improving data quality and ensuring clean, analysis-ready data.
+
+💲Designed and implemented key performance indicators (KPIs) such as Revenue per Available Room (RevPAR), Average Daily Rate (ADR), Occupancy %, Realization %, and Booking trends, enabling property-level and city-level performance tracking.
+
+🏩Developed dynamic DAX measures to calculate week-over-week and month-over-month changes, enabling actionable insights on occupancy and revenue patterns (e.g. +5% occupancy on weekends vs. weekdays).
+
+📈Created visualizations for executive dashboards, including trend analysis by week, occupancy by day type, booking percentage by platform, and property-level performance segmentation—enhancing decision-making for dynamic pricing strategies and revenue optimization.
+
+🛗Collaborated closely with business managers to define and refine problem statements, gather requirements, and conduct iterative reviews, leading to improved stakeholder egagement and adoption of dynamic pricing models tailored to weekday/weekend demand.
+
+💲Drove data-driven decisions that resulted in the implementation of dynamic pricing strategies, leading to an estimated 10-15% increase in occupancy rates during off-peak periods and 5% revenue uplift on average.
+
+✅Utilized insights from channel-level pricing analyses to optimize marketing spend, focusing on high-performing booking platforms and city-specific promotions, contributing to improved customer satisfaction ratings (average rating increased to 4.2/5).
+________________________________________
+
 
 Title: Hotel Revenue Performance Analysis & Dashboard Development Using Power BI
 
