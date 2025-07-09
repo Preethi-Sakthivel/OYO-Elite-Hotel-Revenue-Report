@@ -26,7 +26,7 @@ Project Overview
 ________________________________________
 
 
-Title: Hotel Revenue Performance Analysis & Dashboard Development Using Power BI
+Hotel Revenue Performance Analysis & Dashboard Development Using Power BI
 
 📅Purpose and Business Problem:
 
